@@ -1,8 +1,8 @@
 ---
 title: 'Quick Start'
 date: 2020-07-05 17:21:13
-category: 'development'
-draft: false
+category: 'career'
+draft: true
 ---
 
 # Getting Started 😎

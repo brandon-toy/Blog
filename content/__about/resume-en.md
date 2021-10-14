@@ -50,4 +50,5 @@ React; Nestjs; Gatsby; Node; Jest; Babel; ESLint; Git;
 
 ## Honours and Awards
 Realtor.com Hackathon - 1st Place for FastTrack (Judges Choice)
+
 Bold Hackathon - 1st Place Overall

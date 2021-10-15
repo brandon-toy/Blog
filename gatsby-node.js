@@ -24,7 +24,7 @@ exports.createPages = ({ graphql, actions }) => {
               frontmatter {
                 title
                 category
-                ranking
+                rating
               }
             }
             previous {

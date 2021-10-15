@@ -32,8 +32,8 @@ Hackathon team finished 1st and was awarded Judges Choice.
 
 
 ## Projects
-`my-portfolio` <t style="font-size:10px;">React, Gatsby, CSS, Netlify</t>
-- Portfolio website utilizing technologies and skills
+`Blog` <t style="font-size:10px;">React, Gatsby, CSS, Netlify</t>
+- Blog utilizing technologies and skills 
 - Setup with Google Analytics to track Users that have visited the page
 - Hosted using Netlify for continuous builds
 

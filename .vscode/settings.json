@@ -2,6 +2,9 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.fixAll.markdownlint": true
-        
-    }
+
+    },
+    "cSpell.words": [
+        "leetcode"
+    ]
 }

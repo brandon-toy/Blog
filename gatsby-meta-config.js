@@ -12,7 +12,7 @@ module.exports = {
     linkedin: `btoy`, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
-  icon: `content/assets/favicon.ico`, // Add your favicon
+  icon: `content/assets/favicon.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.

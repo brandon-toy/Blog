@@ -1,5 +1,6 @@
 const metaConfig = require('./gatsby-meta-config')
 
+// plugins
 module.exports = {
   siteMetadata: metaConfig,
   plugins: [

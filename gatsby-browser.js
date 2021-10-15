@@ -7,6 +7,7 @@ require('intersection-observer')
 
 const metaConfig = require('./gatsby-meta-config')
 
+// render facebook chat
 exports.onInitialClientRender = () => {
   if (metaConfig.share.facebookAppId) {
     window.fbAsyncInit = function() {
